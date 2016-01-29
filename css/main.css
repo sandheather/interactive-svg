@@ -24,3 +24,11 @@ html {
   animation: across 2200ms infinite linear;
 }
 
+.face:hover .right-ear {
+  transform: translate(0, 12px);
+}
+
+.right-ear {
+  transition: all .5s linear;
+}
+

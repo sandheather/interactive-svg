@@ -16,6 +16,22 @@ html {
   box-sizing: inherit;
 }
 
+@keyframes across {
+
+  0% {
+    transform: translate(12px, 0);
+  }
+
+  50% {
+    transform: translate(-12px, 0);
+  }
+
+  100% {
+    transform: translate(12px, 0);
+  }
+
+}
+
 .left-eye {
   animation: across 2200ms infinite linear;
 }

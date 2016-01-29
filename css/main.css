@@ -15,3 +15,12 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.left-eye {
+  animation: across 2200ms infinite linear;
+}
+
+.right-eye {
+  animation: across 2200ms infinite linear;
+}
+

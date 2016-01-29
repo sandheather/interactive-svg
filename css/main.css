@@ -49,9 +49,9 @@ html {
 }
 
 .face:hover .left-ear {
-  transform: translate(0, 12px)
+  transform: translate(0, 12px);
 }
 
 .left-ear {
-  transition: all .5s linear ;
+  transition: all .5s linear;
 }
